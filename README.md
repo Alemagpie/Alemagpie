@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alemagpie, an 20yo university student in Italy.
 - 👀 I’m interested in both embedded programming and game development.
-- 🌱 I’m fluent in ARM assembly, and Java.
-- 💞️ I can also program in C#, C++ and Javascript.
+- 🌱 I’m fluent in ARM assembly, and C++.
+- 💞️ I can also program in C#, Java and Javascript.
 - 📫 How to reach me: EMAIL = fagnanialessio2004@gmail.com - IG = aleee.pcb
 
 <!---
