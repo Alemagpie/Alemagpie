@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alemagpie, an 18yo student in Italy.
-- 👀 I’m interested in front-end development and game development.
-- 🌱 I’m currently learning javascript and expanding my skills of HTML and CSS.
-- 💞️ I’m making my own portfolio for school/future jobs.
+- 👋 Hi, I’m @Alemagpie, an 20yo university student in Italy.
+- 👀 I’m interested in both embedded programming and game development.
+- 🌱 I’m fluent in ARM assembly, and Java.
+- 💞️ I can also program in C#, C++ and Javascript.
 - 📫 How to reach me: EMAIL = fagnanialessio2004@gmail.com - IG = aleee.pcb
 
 <!---
