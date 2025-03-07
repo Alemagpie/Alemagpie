@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alemagpie, an 20yo university student in Italy.
+- 👋 Hi, I’m @Alemagpie, an 20yo university student in Italy. I'm studying CS in Padua.
 - 👀 I’m interested in both embedded programming and game development.
 - 🌱 I’m fluent in ARM assembly, and C++.
 - 💞️ I can also program in C#, Java and Javascript.
