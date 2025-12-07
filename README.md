@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alemagpie, an 20yo university student in Italy. I'm studying CS in Padua.
+- 👋 Hi, I’m @Alemagpie, an 21yo university student in Italy. I'm studying CS in Padua.
 - 👀 I’m interested mainly in embedded programming, as well as game development.
 - 🌱 My favourite programming languages are ARM assembly, and C++.
 - 💞️ I can also program in C#, Java and Javascript.
